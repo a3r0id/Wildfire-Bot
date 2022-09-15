@@ -3,7 +3,7 @@
 [@fire_bot_](https://twitter.com/fire_bot_)
 
 ## What does Fire Bot do?
-**Fire Bot** follows major wildfire incidents, Tweeting live fire cam collages as well as various regional metrics such as sattelite imagery and weather conditions and, most importantly, the status of large wildfire incidents.
+**Fire Bot** follows major wildfire incidents, Tweeting live fire cam collages as well as various regional metrics such as sattelite imagery/weather conditions and, most importantly, the status of large wildfire incidents.
 
 ## Is Fire Bot reliable?
 **Fire Bot** utilizes various official public datasets to curate valuable Tweets pertaining to the status of the current incident/s.
