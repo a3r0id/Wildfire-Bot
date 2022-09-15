@@ -7,7 +7,7 @@
 
 ## Is Fire Bot reliable?
 **Fire Bot** utilizes various official public datasets to curate valuable Tweets pertaining to the status of the current incident/s.
-I've focused accurately posting new updates but some data may be 
+I've focused on accurately posting new updates as they arise but some data my be behind by a few minutes while I'm still polishing things up.
 
 ### Disclaimer: 
 - *This program is currently under active development therfore may yeild arbitrary/inconsistent information.*
