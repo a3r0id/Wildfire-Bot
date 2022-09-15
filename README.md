@@ -22,7 +22,7 @@ I've focused on accurately posting new updates as they arise but some data my be
 - A) Living in Northern California, wildfires are a common aspect of life. This is my way of fighting back!🤜Fire Bot aims to provide factual information for folks keeping an eye on wildfires.
 
 - Q) Are you affiliated with any organization?
-- A) Nope, it's just me 👋. I utilize public data from the regions *awesome* official websites/API's to curate the content in real-time, all of which I do not own/represent.
+- A) Nope, it's just me 👋. I utilize public data from my region's *awesome* official websites/API's to curate the content in real-time, all of which I do not own/represent.
 
 ## __Timeline__
 
