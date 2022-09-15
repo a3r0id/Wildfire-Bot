@@ -1,6 +1,6 @@
 # Wildfire-Bot
 
-## ![](https://raw.githubusercontent.com/hostinfodev/Wildfire-Bot/76e410744f564683adcbf5f4a2ea94657b7f98ce/media/twitter.svg) [@fire_bot_](https://twitter.com/fire_bot_)
+## [![](https://raw.githubusercontent.com/hostinfodev/Wildfire-Bot/76e410744f564683adcbf5f4a2ea94657b7f98ce/media/twitter.svg)@fire_bot_](https://twitter.com/fire_bot_)
 
 ## What does Fire Bot do?
 **Fire Bot** follows major wildfire incidents, Tweeting live fire cam collages as well as various regional metrics such as sattelite imagery, weather conditions and, most importantly, the status of large wildfire incidents.
