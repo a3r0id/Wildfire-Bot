@@ -11,7 +11,7 @@ I've focused on accurately posting new updates as they arise but some data my be
 
 ### Disclaimer: 
 - *This program is currently under active development therfore may yeild arbitrary/inconsistent information.*
-- *Since the information posted may not be accurate, Fire Bot should never be used as a risk-assesment metric and should only be interpreted as a non-official source of information.*
+- *Since the information posted may not be accurate, Fire Bot should never be used as a risk-assesment metric and should only be interpreted as an unofficial source of fire/saftey information.*
 
 ## FAQ
 
