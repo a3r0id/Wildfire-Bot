@@ -16,7 +16,7 @@ I've focused on accurately posting new updates as they arise but some data my be
 ## FAQ
 
 - Q) Why is it still daytime in some of the fire cam imagery while it is actually nighttime in the region that the cam is located in?
-- A) Wildfire Bot uses [ALERTwildfire](https://alertwildfire.org)'s public data. Some of their cams do not run at nighttime therefore the last available image is used. Edit: visa-verse as well! Some cams are only FLIR it seems.
+- A) Wildfire Bot uses [ALERTwildfire](https://alertwildfire.org)'s public data. Some of their cams do not run at nighttime therefore the last available image is used. Edit: visa-versa as well! Some cams are only FLIR it seems.
 
 - Q) Why did you create Wildfire Bot?
 - A) Living in Northern California, wildfires are a common aspect of life. This is my way of fighting back!🤜Wildfire Bot aims to provide factual information for folks keeping an eye on wildfires.
